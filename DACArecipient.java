@@ -1,11 +1,3 @@
-/**
- * Represents one person receiving deferred action for childhood arrivals (DACA).
- * 
- * <TODO add @author info here for all group-mates!>
- *
- *	@version 1.1
- **/
-
 //TODO: Complete UML class diagram
 /* UML CLASS DIAGRAM:
 -----------------------------------------
@@ -40,6 +32,13 @@
 -----------------------------------------
 */
 
+/**
+ * Represents one person receiving deferred action for childhood arrivals (DACA).
+ * 
+ * @author Your name here
+ *
+ *	@version 1.1
+ */
 public class DACArecipient
 {
 	/****** CONSTANTS ******/
